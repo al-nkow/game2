@@ -1,6 +1,6 @@
 ## GAME 15
 
-Open: [https://aleksey-kovalchuk.github.io/game15/](https://aleksey-kovalchuk.github.io/game15/)
+Open: [https://al-nkow.github.io/game15/](https://al-nkow.github.io/game15/)
 
 ##### run app in development mode
  ````npm start````
